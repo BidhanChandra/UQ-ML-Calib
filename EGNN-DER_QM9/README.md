@@ -1,8 +1,8 @@
-#Overview
+**Overview**
 
 This directory contains code and data for training an **E(n)-equivariant Graph Neural Network (EGNN)** with **Deep Evidential Regression (DER)** to estimate uncertainty in predicting electronic spatial extent on the **QM9 dataset**. It also includes scripts for post-hoc calibration and analysis.
 
-#Files
+**Files**
 
 **DER_EGNN_QM9_0.01.ipynb** – Trains the EGNN-DER model on the QM9 dataset and generates uncertainty estimates. Outputs:
 
